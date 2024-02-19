@@ -1,8 +1,8 @@
 {
   "name": "MINZZA MD (2.0.6)",
   "description": "MINZZA MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "logo": "https://telegra.ph/file/1956cf07e6112f19c9371.jpg",
+  "keywords": ["minzza", "bot", "whatsapp bot", "multi device", "minzza-md"],
   "success_url": "/",
 
   "env": {
